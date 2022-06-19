@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/retroword/static/css/main.e6c13ad2.css",
-    "main.js": "/retroword/static/js/main.b381d7f5.js",
-    "static/js/787.db58bef6.chunk.js": "/retroword/static/js/787.db58bef6.chunk.js",
-    "index.html": "/retroword/index.html",
-    "main.e6c13ad2.css.map": "/retroword/static/css/main.e6c13ad2.css.map",
-    "main.b381d7f5.js.map": "/retroword/static/js/main.b381d7f5.js.map",
-    "787.db58bef6.chunk.js.map": "/retroword/static/js/787.db58bef6.chunk.js.map"
+    "main.css": "/retroword-front/static/css/main.e6c13ad2.css",
+    "main.js": "/retroword-front/static/js/main.3cd08fb4.js",
+    "static/js/787.db58bef6.chunk.js": "/retroword-front/static/js/787.db58bef6.chunk.js",
+    "index.html": "/retroword-front/index.html",
+    "main.e6c13ad2.css.map": "/retroword-front/static/css/main.e6c13ad2.css.map",
+    "main.3cd08fb4.js.map": "/retroword-front/static/js/main.3cd08fb4.js.map",
+    "787.db58bef6.chunk.js.map": "/retroword-front/static/js/787.db58bef6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b381d7f5.js"
+    "static/js/main.3cd08fb4.js"
   ]
 }
