@@ -1,4 +1,3 @@
-import RetroWord from './pages/RetroWord';
 import React from 'react';
 import { theme } from './themes/theme';
 import { ThemeProvider } from '@mui/material/styles';

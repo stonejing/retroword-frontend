@@ -4,7 +4,7 @@ import {
   Typography, Divider, Toolbar
 } from '@mui/material';
 import TopBar from './TopBar';
-import RetroWord from '../../pages/RetroWord';
+import RetroWord from '../../pages/RetroWord/RetroWord';
 
 const sideBarWidth = 240;
 

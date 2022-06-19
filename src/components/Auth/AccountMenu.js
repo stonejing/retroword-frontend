@@ -23,13 +23,14 @@ const AccountMenu = () => {
   return (
     <>
       { authIsAuthenticate ? (
-        <Button onClick={handleLogout}>
+        <Button size={"small"} color={'inherit'} variant={'contained'} onClick={handleLogout}
+                endIcon={<Avatar sx={{width: 24, height: 24, color: 'inherit'}}/>}>
           Logout
         </Button>
       ) : (
         <Button size={"small"} color={'inherit'} variant={'contained'} onClick={() => setAuthDialog(true)}
                 endIcon={<Avatar sx={{width: 24, height: 24, color: 'inherit'}}/>}>
-          Login
+          Account
         </Button>
       )}
     </>
